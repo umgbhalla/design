@@ -24,7 +24,6 @@ dumping my figma exports
 <img width=30% src="lomgo/Frame 8.png">
 <img width=30% src="lomgo/Instagram post - 10.png">
 <img width=30% src="lomgo/Wing.png">
-<img width=30% src="medium/kshgrk">
 <img width=30% src="medium/kshgrk/20210303.png">
 <img width=30% src="medium/kshgrk/20210304.png">
 <img width=30% src="medium/kshgrk/Desktop - 1.png">
